@@ -1,0 +1,6 @@
+.booking-grid {
+    display: flex;
+    justify-content: center; /* Center horizontally */
+    margin-top: 2%;
+    padding-bottom: 30px;
+}

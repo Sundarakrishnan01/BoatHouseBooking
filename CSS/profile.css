@@ -1,0 +1,54 @@
+/* profile.css */
+
+/* Set global styles for the page */
+body {
+  margin: 0;
+  font-family: 'Arial', sans-serif;
+}
+
+/* Style the header component */
+.header {
+  background-color: #333;
+  color: white;
+  padding: 10px;
+  text-align: center;
+}
+
+/* Style the profile section */
+.section {
+  background-color: #f4f5f7;
+}
+
+/* Style the profile container */
+.container {
+  padding: 5% 0;
+}
+
+/* Style the profile card */
+.card {
+  border-radius: 0.5rem;
+}
+
+/* Style the gradient background on the left side */
+.gradient-custom {
+  border-top-left-radius: 0.5rem;
+  border-bottom-left-radius: 0.5rem;
+}
+
+/* Style the avatar image */
+.avatar-image {
+  width: 80px;
+  justify-content: center;
+}
+
+/* Style the user information on the right side */
+.user-info {
+  padding: 1rem;
+}
+
+/* Style the social media icons */
+.social-icons {
+  margin-top: 1rem;
+}
+
+/* Add additional styles as needed */
