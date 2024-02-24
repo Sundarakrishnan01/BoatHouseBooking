@@ -1,0 +1,12 @@
+
+
+.signupCont{
+    background-image: url('https://i.pinimg.com/originals/93/85/3f/93853f20c3a4421dcc6819d662b7fae1.jpg');
+    
+}
+.login-box{
+    /* background-image: url('https://i.pinimg.com/originals/93/85/3f/93853f20c3a4421dcc6819d662b7fae1.jpg'); */
+    /* background-repeat: no-repeat; */
+    background-size: cover;
+    opacity: 1;
+}   
